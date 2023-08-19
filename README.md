@@ -59,7 +59,7 @@ My learning journey began at SkipQ organization, where I immersed myself in a bo
 
 Currently, I'm a junior MERN stack developer at Adroittech, a remote-working company headquartered in Germany. This role has allowed me to continue learning and applying my skills on an international stage.
 
-<summary>📝 My GitHub Stats</summary>
+## <summary>📝 My GitHub Stats</summary>
 <br>
 
 ![Junaid's github stats](https://github-readme-stats.vercel.app/api?username=MJunaid648&theme=gotham&show_icons=true&include_all_commits=true&)
