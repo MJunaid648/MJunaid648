@@ -1,8 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Muhammad Junaid - Frontend Developer
+
+Hello there! 👋 I'm Muhammad Junaid, a passionate front-end developer with a knack for turning ideas into captivating digital experiences. I'm a Computer Science graduate from Comsats University Islamabad, Attock campus, and I'm thrilled to share my journey and skills with you.
+---
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <div id="badges"align="center">
-
   <a href="https://api.whatsapp.com/send?phone=923135476918">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
@@ -17,17 +20,6 @@
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
 </div>
-<h1  align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-# Muhammad Junaid - Frontend Developer
-
-Hello there! 👋 I'm Muhammad Junaid, a passionate front-end developer with a knack for turning ideas into captivating digital experiences. I'm a Computer Science graduate from Comsats University Islamabad, Attock campus, and I'm thrilled to share my journey and skills with you.
 
 ## About Me
 
