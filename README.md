@@ -58,6 +58,16 @@ My learning journey began at SkipQ organization, where I immersed myself in a bo
 
 Currently, I'm a junior MERN stack developer at Adroittech, a remote-working company headquartered in Germany. This role has allowed me to continue learning and applying my skills on an international stage.
 
+## Projects
+Here are some of my deployed projects that showcase my skills and competency in front-end development.
+- [Adroittech website](https://mjunaid648.github.io/adroittech-homepage/index.html)
+- [Nixxsol landing page](https://nixxsol.netlify.app/)
+- [Food order landing page](https://junaid-food-order-app.netlify.app/)
+- [Expense tracker - App](https://expense-tracker648.netlify.app/)
+- [Notes taking - App](https://mj-notes.netlify.app/)
+- [Todo - App](https://junaids-todo-list.netlify.app/)
+
+
 ## <summary>📝 My GitHub Stats</summary>
 <br>
 
@@ -67,7 +77,7 @@ Currently, I'm a junior MERN stack developer at Adroittech, a remote-working com
 <br><br>
 Open Source Contributor from <b>Pakistan<b> 💚
     <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=evilgenius786.evilgenius786)
+![](https://visitor-badge.glitch.me/badge?page_id=MJunaid648.MJunaid648)
 <br>
 
 ## Get in Touch
