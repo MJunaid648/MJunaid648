@@ -62,6 +62,7 @@ Currently, I'm a junior MERN stack developer at Adroittech, a remote-working com
 Here are some of my deployed projects that showcase my skills and competency in front-end development.
 - [Adroittech website](https://mjunaid648.github.io/adroittech-homepage/index.html)
 - [Nixxsol landing page](https://nixxsol.netlify.app/)
+- [Recipe app Landing page](https://juni-recipes.netlify.app/)
 - [Food order landing page](https://junaid-food-order-app.netlify.app/)
 - [Expense tracker - App](https://expense-tracker648.netlify.app/)
 - [Notes taking - App](https://mj-notes.netlify.app/)
