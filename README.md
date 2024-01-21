@@ -24,6 +24,7 @@ Hello there! 👋 I'm Muhammad Junaid, a passionate front-end developer with a k
 ## About Me
 
 I hold a degree in Computer Science and bring 1 year of experience to the frontend development field. My journey started with a curiosity-driven journey into coding, and it has led me to where I am today. My dedication to honing my skills and crafting exceptional user interfaces has guided my career.
+Check my portfolio [here](https://mjunaid-portfolio.netlify.app/)
 
 ## My Skills
 
