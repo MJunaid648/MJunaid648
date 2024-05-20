@@ -1,4 +1,4 @@
-# Muhammad Junaid - Frontend Developer
+# Muhammad Junaid - Full-Stack Developer
 
 Hello there! 👋 I'm Muhammad Junaid, a passionate full-stack developer with a knack for turning ideas into captivating digital experiences. I'm a Computer Science graduate from Comsats University Islamabad, Attock campus, and I'm thrilled to share my journey and skills with you.
 ---
