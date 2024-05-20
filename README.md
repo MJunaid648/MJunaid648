@@ -1,6 +1,6 @@
 # Muhammad Junaid - Frontend Developer
 
-Hello there! 👋 I'm Muhammad Junaid, a passionate front-end developer with a knack for turning ideas into captivating digital experiences. I'm a Computer Science graduate from Comsats University Islamabad, Attock campus, and I'm thrilled to share my journey and skills with you.
+Hello there! 👋 I'm Muhammad Junaid, a passionate full-stack developer with a knack for turning ideas into captivating digital experiences. I'm a Computer Science graduate from Comsats University Islamabad, Attock campus, and I'm thrilled to share my journey and skills with you.
 ---
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
