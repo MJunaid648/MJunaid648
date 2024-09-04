@@ -61,6 +61,7 @@ Currently, I'm a junior MERN stack developer at Adroittech, a remote-working com
 
 ## Projects
 Here are some of my deployed projects that showcase my skills and competency in front-end development.
+- [Nike UI- Nike Landing Page](https://nike-ui-648.netlify.app/)
 - [Foodie- A food Recipe App](https://foodie648.netlify.app/)
 - [Buzz Bazaar- React.js e-commerce store app](https://buzz-bazaar.netlify.app)
 - [React Movie App](https://redux-movie-app-by-junaid.netlify.app/)
