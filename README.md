@@ -9,8 +9,8 @@ Hello there! 👋 I'm Muhammad Junaid, a passionate full-stack developer with a 
   <a href="https://api.whatsapp.com/send?phone=923135476918">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
-<a href="https://www.linkedin.com/in/full-stack-web-developer-junaid/">
-    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+<a href="https://www.linkedin.com/in/junaid-full-stack-developer">
+    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"/>
 </a>
 
   <a href="https://www.upwork.com/freelancers/~0192fb1a580ff83a27">
