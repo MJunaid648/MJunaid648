@@ -9,7 +9,7 @@ Hello there! 👋 I'm Muhammad Junaid, a passionate full-stack developer with a 
   <a href="https://api.whatsapp.com/send?phone=923135476918">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
-<a href="https://www.linkedin.com/in/junaid-full-stack-developer">
+<a href="https://www.linkedin.com/in/mjunaid648">
     <img width="32" height="32" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png"/>
 </a>
 
@@ -88,6 +88,6 @@ Open Source Contributor from <b>Pakistan<b> 💚
 
 ## Get in Touch
 
-I'm always excited to connect with fellow developers and industry enthusiasts. Feel free to reach out to me for collaborations, discussions, or just to say hello. You can find me on [LinkedIn](https://www.linkedin.com/in/muhammad-junaid-350b79195/)
+I'm always excited to connect with fellow developers and industry enthusiasts. Feel free to reach out to me for collaborations, discussions, or just to say hello. You can find me on [LinkedIn](https://www.linkedin.com/in/mjunaid648/)
 
 Let's create incredible web experiences together!
