@@ -1,93 +1,110 @@
-# Muhammad Junaid - Full-Stack Developer
+# Hi, I'm Muhammad Junaid 👋
 
-Hello there! 👋 I'm Muhammad Junaid, a passionate full-stack developer with a knack for turning ideas into captivating digital experiences. I'm a Computer Science graduate from Comsats University Islamabad, Attock campus, and I'm thrilled to share my journey and skills with you.
+### Full Stack Software Engineer | Angular | React | NestJS | Node.js | GraphQL
+
+I'm a Full Stack Software Engineer with 4+ years of experience building enterprise-grade web applications, healthcare analytics platforms, and SaaS products.
+
+Currently, I work as a **Staff Software Engineer II at Biome Analytics**, where I design and develop scalable frontend and backend solutions using Angular, NestJS, GraphQL, TypeORM, and SQL databases.
+
+I enjoy building high-quality software, solving complex business problems, and delivering products that create real value for users.
+
 ---
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-<div id="badges"align="center">
-  <a href="https://api.whatsapp.com/send?phone=923135476918">
-    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
-</a>
-<a href="https://www.linkedin.com/in/mjunaid648">
-    <img width="32" height="32" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG32.png"/>
-</a>
 
-  <a href="https://www.upwork.com/freelancers/~0192fb1a580ff83a27">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
-</a>
-<a href="mailto:648mjunaid@gmail.com">
-    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
-</a>
-</div>
+## 🚀 About Me
 
-## About Me
+* 💼 Staff Software Engineer II at Biome Analytics
+* 🏥 Experience building Healthcare Analytics platforms
+* ☁️ Experience developing SaaS and Enterprise Applications
+* 🌍 Worked with remote teams across Pakistan, UK, and Germany
+* ⚡ Full-stack development from database design to frontend delivery
+* 🎯 Strong focus on scalable architecture, performance, and maintainability
 
-I hold a degree in Computer Science and bring 1 year of experience to the frontend development field. My journey started with a curiosity-driven journey into coding, and it has led me to where I am today. My dedication to honing my skills and crafting exceptional user interfaces has guided my career.
-Check my portfolio [here](https://mjunaid-portfolio.netlify.app/)
+---
 
-## My Skills
+## 🛠 Tech Stack
 
-I specialize in:
+### Frontend
 
-- HTML, CSS, and JavaScript for building engaging web interfaces.
-- DOM manipulation and creating interactive user experiences.
-- Utilizing the power of Tailwind CSS and Chakra UI for efficient styling.
-- Developing dynamic and responsive web applications using React.js.
-- State management to ensure seamless user interactions.
-- Integrating APIs for enhanced functionality and data display.
-- Node.js and Express.js for server-side programming.
-- Crafting RESTful APIs that power applications.
-- Collaborating with Git for version control and team-based development.
+* Angular
+* React
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* RxJS
+* NgRx
+* Redux Toolkit
+* React Query
+* AG Grid
+* Highcharts
 
-<br>
-   <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
-<div align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</div>
+### Backend
 
-## My Journey
+* NestJS
+* Node.js
+* Express.js
+* GraphQL
+* REST APIs
+* TypeORM
 
-My learning journey began at SkipQ organization, where I immersed myself in a boot camp. After 5 months of dedication, I gained foundational skills in MERN stack development. Following my progress, I embarked on an internship at Cyberevangelists, a tech company based in Lahore, Pakistan. My time there further honed my skills and introduced me to the practical world of MERN stack development.
+### Databases
 
-Currently, I'm a junior MERN stack developer at Adroittech, a remote-working company headquartered in Germany. This role has allowed me to continue learning and applying my skills on an international stage.
+* MySQL
+* SQL
+* MongoDB
+* Mongoose
 
-## Projects
-Here are some of my deployed projects that showcase my skills and competency in front-end development.
-- [Nike UI- Nike Landing Page](https://nike-ui-648.netlify.app/)
-- [Foodie- A food Recipe App](https://foodie648.netlify.app/)
-- [Buzz Bazaar- React.js e-commerce store app](https://buzz-bazaar.netlify.app)
-- [React Movie App](https://redux-movie-app-by-junaid.netlify.app/)
-- [Adroittech website](https://mjunaid648.github.io/adroittech-homepage/index.html)
-- [Nixxsol landing page](https://nixxsol.netlify.app/)
-- [Recipe app Landing page](https://juni-recipes.netlify.app/)
-- [Food order landing page](https://junaid-food-order-app.netlify.app/)
-- [Expense tracker - App](https://expense-tracker648.netlify.app/)
-- [Notes taking - App](https://mj-notes.netlify.app/)
-- [Todo - App](https://junaids-todo-list.netlify.app/)
+### Tools & Practices
 
+* Git
+* GitHub
+* GitLab
+* Jira
+* Postman
+* Agile Scrum
+* Code Reviews
+* CI/CD Workflows
 
-## <summary>📝 My GitHub Stats</summary>
-<br>
+---
 
-![Junaid's github stats](https://github-readme-stats.vercel.app/api?username=MJunaid648&theme=gotham&show_icons=true&include_all_commits=true&)
-<br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJunaid648&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
-<br><br>
-Open Source Contributor from <b>Pakistan<b> 💚
-    <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=MJunaid648.MJunaid648)
-<br>
+## 💡 Career Highlights
 
-## Get in Touch
+* Promoted from Associate Software Engineer to Staff Software Engineer II.
+* Built enterprise healthcare analytics platforms serving complex business workflows.
+* Designed and implemented Jira-integrated workflow automation systems.
+* Developed scalable GraphQL APIs and database architectures using TypeORM.
+* Built full-stack SaaS applications using Angular, React, NestJS, and Node.js.
+* Developed data visualization and reporting solutions using Highcharts and AG Grid.
+* Collaborated with distributed engineering teams across multiple countries.
 
-I'm always excited to connect with fellow developers and industry enthusiasts. Feel free to reach out to me for collaborations, discussions, or just to say hello. You can find me on [LinkedIn](https://www.linkedin.com/in/mjunaid648/)
+---
 
-Let's create incredible web experiences together!
+## 🌐 Connect With Me
+
+* 📧 Email: [648mjunaid@gmail.com](mailto:648mjunaid@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/mjunaid648
+* 🌍 Portfolio: https://mjunaid-portfolio.netlify.app
+* 📱 WhatsApp: https://wa.me/923135476918
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJunaid648\&theme=gotham\&show_icons=true\&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJunaid648\&layout=compact\&theme=gotham)
+
+---
+
+### Open To
+
+* Full Stack Engineering Roles
+* Angular Development
+* React Development
+* Backend Development (NestJS / Node.js)
+* SaaS & Enterprise Product Development
+* Remote Opportunities
+
+⭐ Always interested in building scalable products, learning new technologies, and collaborating with great teams.
