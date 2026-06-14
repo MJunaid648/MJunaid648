@@ -85,7 +85,6 @@ I enjoy building high-quality software, solving complex business problems, and d
 
 * 📧 Email: [648mjunaid@gmail.com](mailto:648mjunaid@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/mjunaid648
-* 🌍 Portfolio: https://mjunaid-portfolio.netlify.app
 * 📱 WhatsApp: https://wa.me/923135476918
 
 ---
